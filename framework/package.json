@@ -1,0 +1,11 @@
+{
+    "name": "egg-framework",
+    "version": "1.0.0",
+    "description": "this is a eggjs",
+    "dependencies": {
+        "egg": "^2.20.2"
+    },
+    "main": "index.js",
+    "types": "index.d.ts",
+    "egg": {}
+}
